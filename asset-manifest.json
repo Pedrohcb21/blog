@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/blog/static/css/main.6dc9a70f.css",
+    "main.js": "/blog/static/js/main.047936b4.js",
+    "static/media/collectionPopulada.png": "/blog/static/media/collectionPopulada.5042abb693f308734549.png",
+    "static/media/perfil.jpeg": "/blog/static/media/perfil.6cd5d03fae5d62611f85.jpeg",
+    "static/media/importando.png": "/blog/static/media/importando.ee57f83fb392df503f3b.png",
+    "static/media/primeiraConsultaIndice.png": "/blog/static/media/primeiraConsultaIndice.e534aa8a328619fa6b38.png",
+    "static/media/SegundaConsulta.png": "/blog/static/media/SegundaConsulta.490cbb19d5ec13635963.png",
+    "static/media/terceiraConsulta.png": "/blog/static/media/terceiraConsulta.b4568f5dc90e1da420ff.png",
+    "static/media/criandoIndices.png": "/blog/static/media/criandoIndices.bd4d2f752961c8b32bdc.png",
+    "static/media/primeiraConsulta.png": "/blog/static/media/primeiraConsulta.ce9a92926c10e6659bcf.png",
+    "static/media/indiceComposto.png": "/blog/static/media/indiceComposto.5aba994a7964f2b54507.png",
+    "static/media/criandDataBase.png": "/blog/static/media/criandDataBase.233e711972c122942bbe.png",
+    "index.html": "/blog/index.html",
+    "main.6dc9a70f.css.map": "/blog/static/css/main.6dc9a70f.css.map",
+    "main.047936b4.js.map": "/blog/static/js/main.047936b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dc9a70f.css",
+    "static/js/main.047936b4.js"
+  ]
+}
