@@ -10,6 +10,12 @@ export const MainContainer = styled.div `
 
     padding: 24px 0;
 
+    h1 {
+            padding: 24px 0;
+            font-size: 1.5em;
+            text-decoration: underline green;
+        }
+
     .subContainerProfile {
         display: flex;
         flex-direction: column;
@@ -36,6 +42,11 @@ export const MainContainer = styled.div `
         padding: 32px 0;
         border: 4px solid green;
 
+        h2 {
+            text-decoration: underline green;
+            font-size: 1.2em;
+        }
+
         h3 {
             text-decoration: underline green;
             font-size: 1em;
@@ -56,12 +67,6 @@ export const MainContainer = styled.div `
 
         img {
             max-width: 90%;
-        }
-
-        h1 {
-            padding: 24px 0;
-            font-size: 1.5em;
-            text-decoration: underline green;
         }
     }
 `

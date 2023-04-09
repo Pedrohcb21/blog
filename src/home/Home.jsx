@@ -17,10 +17,34 @@ export function Home () {
             <div className="subContainerProfile">
                 <img className="profile" src={profile} alt="" />
                 <span>Autor: Pedro Henrique</span>
+                <h1>Projeto pessoal sobre MongoDB</h1>
             </div>
 
             <div className="subContainer">
-                <h1>Projeto pessoal sobre MongoDB</h1>
+                <h2>Síntese sobre a importância da evolução dos bancos de dados para o sistema corporativo</h2>
+
+                <div>
+                    <p>A evolução dos bancos de dados tanto os relacionais como os não relacionais, é extremamente importante para o mundo corporativo, pois o mercado está cada vez
+                        mais acelerado e competitivo, exigindo das empresas respostas rápidas e assertivas, os bancos de dados armazenam informações e nessa batalha de competitividade, 
+                        informação é poder.
+                    </p>
+                </div>
+
+                <h2>Síntese sobre SGBDs e o Teorema de CAP</h2>
+
+                <div>
+                    <p>Os SGBDs são softwares que nasceram para facilitar, deixando mais rápido e dinâmico o manuseio de um banco de dados, seja ele relacional ou não relacional, tornando esse
+                        trabalho mais rápido e produtivo.
+                    </p>
+
+                    <p>O Teorema de CAP(Consistência, Disponibilidade e Partição tolerante a falhas) consiste na afirmação de que em sistemas de distribuição de dados, é impossivel obter
+                        mais do que duas garantias. Portanto, sempre teremos que escolher entre duas na hora de pensar em qual sistema utilizar para o projeto em questão.
+                    </p>
+                </div>
+            </div>
+
+            <div className="subContainer">
+                <h2>Hora de botar a mão na massa!!!</h2>
 
                 <div>
                     <img src={img1} alt="" />
